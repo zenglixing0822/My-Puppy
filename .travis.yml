@@ -2,4 +2,5 @@ language: node_js
 node_js:
   - 12
   
-script: pass
+script: 
+  - "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" index.html
